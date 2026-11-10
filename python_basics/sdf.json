@@ -1,0 +1,11 @@
+{
+    "age": 30,
+    "expertice": [
+        "wars",
+        "strategist",
+        "all"
+    ],
+    "isKing": true,
+    "name": "Rama",
+    "wife": "Sita"
+}
